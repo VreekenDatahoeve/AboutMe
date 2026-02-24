@@ -1,6 +1,6 @@
 ## About?
 
-Hi, I'm Pieter — a Certified Analytics Professional (CAP-Pro) specialising in procurement analytics and supplier segmentation.
+Hi, I'm Pieter — 
 
 <a href="https://www.certifiedanalytics.org/">
   <img src="images/cap-pro-badge.png" width="110">
