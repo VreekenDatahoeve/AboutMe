@@ -6,6 +6,13 @@ Feel free to explore the projects, reproduce the analyses or implement the appro
 
 If you have questions or suggestions, feel free to reach out.
 
+<br>
+<p align="left">
+  <img src="images/signature.png" width="140">
+</p>
+
 <a href="https://www.certifiedanalytics.org/">
-  <img src="images/cap-pro-badge.png" width="110">
+  <img src="images/cap-pro-badge.png" width="75">
 </a>
+
+
