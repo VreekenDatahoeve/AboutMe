@@ -11,8 +11,8 @@ If you have questions or suggestions, feel free to reach out.
   <img src="images/signature.png" width="140">
 </p>
 
-<a href="https://www.certifiedanalytics.org/">
-  <img src="images/cap-pro-badge.png" width="75">
-</a>
-
-
+<p align="right">
+  <a href="https://www.certifiedanalytics.org/">
+    <img src="images/cap-pro-badge.png" width="75">
+  </a>
+</p>
