@@ -13,7 +13,7 @@ If you have questions or suggestions, feel free to reach out.
 
 <p align="left">
   <a href="https://www.certifiedanalytics.org/">
-    <img src="images/cap-pro-badge.png" width="75">
+    <img src="images/cap-pro-badge.png" width="70">
   </a>
 </p>
 
