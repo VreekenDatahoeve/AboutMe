@@ -11,8 +11,6 @@ If you have questions or suggestions, feel free to reach out.
   <img src="images/signature.png" width="140">
 </p>
 
-<p align="left">
-  <a href="https://https://bcert.me/sbwlziduk/">
-    <img src="images/cap-pro-badge.png" width="70">
-  </a>
-</p>
+<a href="certification.pdf">
+  <img src="images/cap-pro-badge.png" width="70">
+</a>
