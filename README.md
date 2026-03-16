@@ -1,8 +1,8 @@
-## Hi, I'm Pieter 👋
+## Hi, and welcome 👋
 
-As a data analyst, my repositories contain a selection of analytics projects that reflect my way of working. These projects are designed to answer business questions using public data, simulating real business case scenarios.
+I'm Pieter, a data analyst. Here you'll find repositories with a selection of analytics projects that simulate real business case scenarios. These projects demonstrate my way of working when answering business questions by transforming data into meaningful insights.
 
-Feel free to explore the projects, reproduce the analyses or implement the approaches in your own work.
+Feel free to explore the projects, reproduce the analyses, or implement the approaches in your own work.
 
 If you have questions or suggestions, feel free to reach out.
 
@@ -12,8 +12,7 @@ If you have questions or suggestions, feel free to reach out.
 </p>
 
 <p align="left">
-  <a href="https://www.certifiedanalytics.org/">
+  <a href="https://https://bcert.me/sbwlziduk/">
     <img src="images/cap-pro-badge.png" width="70">
   </a>
 </p>
-
